@@ -22,7 +22,9 @@ To analyze the customer base, I looked at the breakdown of the genders of each r
 I further investigated the checkout times and gender by filtering the first graph by gender. The men checkout times peak at five minutes while the women checkout times peak at six minutes. The majority of men and women checkout bikes for less than an hour. This further shows that people find the bikes quick and convinient. 
 
 * **Trips**
+
 ![3](https://user-images.githubusercontent.com/83552696/127792039-4f12639f-9988-4df8-a084-0d6e55fa3f33.jpg)
+
 This graph shows the hours of the days of the week that have the most rides. The darker the square, the more bikes were rented on that hour on that day. A lot of the bikes are rented at 8am and 5pm, which is the time people commute to and from work. There are also riders that rent from 9am to 5pm on the weekends. 
 
 ![4](https://user-images.githubusercontent.com/83552696/127792041-cefdf794-4b9b-4d3d-b1eb-e18149a98bdf.jpg)
