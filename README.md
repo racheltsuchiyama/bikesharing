@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-The bike share business has proved to be very successful in New York City. In order to determine if the bike sharing business would also be successful in Des Moines, I performed analysis of the bike sharing data from NYC.
+The bike sharing business has proved to be very successful in New York City. In order to determine if the bike sharing business would also be successful in Des Moines, I performed analysis of the bike sharing data from NYC. Bike sharing programs are popular among tourists, as a way to get around a new city and explore it in a more in depth manner. Bike sharing programs are also popular among locals because they provide a convenient method of transportation for commuting to and from work. Therefore, there is the potential for a large customer base for the bike sharing program in Des Moines.
 
 ## Results
 
