@@ -12,9 +12,10 @@ As the age of the rider decreases, the average trip duration increases. Therefor
 
 
 ![Checkout_users](https://user-images.githubusercontent.com/83552696/127792031-d7faa2e8-1a4f-4b91-8cbc-3f61d2915ab0.jpg)
-This graph shows the trip durations of the bikes for each rider. The majority of the riders checkout the bike for less than an hour, with a peak at five minutes. However, there are riders that check out the bikes for 1-23 hours.
+This graph shows the trip durations of the bikes for each rider. The majority of the riders checkout the bike for less than an hour, with a peak at five minutes. However, there are riders that check out the bikes for 1 to 23 hours.
 
 ![6](https://user-images.githubusercontent.com/83552696/127792075-9f661db7-a60e-43f9-8162-62230eac02d5.jpg)
+
 To analyze the customer base, I looked at the breakdown of the genders of each rider. The majority of the riders are men and about a quater of the riders are female. Therefore, men are more likely to rent bikes in NYC.
 
 ![2](https://user-images.githubusercontent.com/83552696/127792035-d54d475f-1230-4c34-8ca9-d8e1bc510323.jpg)
